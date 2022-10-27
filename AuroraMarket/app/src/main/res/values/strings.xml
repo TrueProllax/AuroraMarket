@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AuroraMarket</string>
+    <string name="title_home">Главная</string>
+    <string name="title_category">Категории</string>
+    <string name="title_order">Заказ</string>
+    <string name="profile">Profile</string>
+    <string name="title_profile">Профиль</string>
+
+    <string-array name="method_paymant_array">
+        <item>SBER ****-****-9847</item>
+        <item>VTB ****-****-9837</item>
+        <item>TINKOFF ****-****-9827</item>
+        <item>SBER ****-****-9817</item>
+        <item>SBER ****-****-9887</item>
+        <item>VTB ****-****-7887</item>
+        <item>ALPHA-BANK ****-****-4857</item>
+        <item>SOFKOMBANK ****-****-4847</item>
+    </string-array>
+
+    <string-array name="method_address_array">
+        <item>г. Прокопьевск, ул. Союзная, д. 29</item>
+        <item>г. Барнаул, ул. Советская, д. 168</item>
+        <item>г. Горно-Алтайск, ул. Тугамбаева, д. 79</item>
+    </string-array>
+</resources>
